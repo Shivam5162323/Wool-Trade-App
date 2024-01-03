@@ -70,8 +70,8 @@ class _SignupState extends State<Signup> {
 
   Future<String> sendOtpToEmail() async {
     try {
-      String username = 'vendvl.0@gmail.com'; // Your Gmail username
-      String password = 'bteavjdkzosenaen'; // Your Gmail password
+      String username = 'Your Gmail id'; // Your Gmail username
+      String password = 'Your gmail password'; // Your Gmail password
 
       final smtpServer = gmail(username, password);
 
