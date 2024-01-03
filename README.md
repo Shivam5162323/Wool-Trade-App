@@ -4,9 +4,9 @@ This app serves as a dynamic platform connecting government bodies and wholesale
 
 # Tech Stack
 
-Flutter
-Dart
-Google Maps API
+-Flutter\n
+-Dart
+-Google Maps API
 
 
 
