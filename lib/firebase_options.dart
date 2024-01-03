@@ -44,38 +44,13 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyD_VMXQLEOoYsYnxUFJ0FEIjsx3Yp_iBZM',
-    appId: '1:579295691644:web:25866367c5c1ea7a7fdaf9',
-    messagingSenderId: '579295691644',
-    projectId: 'woolify-4182c',
-    authDomain: 'woolify-4182c.firebaseapp.com',
-    storageBucket: 'woolify-4182c.appspot.com',
-    measurementId: 'G-X96XPBZVXD',
+    
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyANdFSMmE5vy0a0F-gt-NJ1GBquaIh6wzg',
-    appId: '1:579295691644:android:7f00a2bb0c5524137fdaf9',
-    messagingSenderId: '579295691644',
-    projectId: 'woolify-4182c',
-    storageBucket: 'woolify-4182c.appspot.com',
+  
   );
 
-  static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyB6Bg8_BkEw5PT2TDamznns6GYPGnn_jNg',
-    appId: '1:579295691644:ios:385a43ea5604c1b57fdaf9',
-    messagingSenderId: '579295691644',
-    projectId: 'woolify-4182c',
-    storageBucket: 'woolify-4182c.appspot.com',
-    iosBundleId: 'com.example.woolify',
-  );
-
-  static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyB6Bg8_BkEw5PT2TDamznns6GYPGnn_jNg',
-    appId: '1:579295691644:ios:979ce52a286fd8c67fdaf9',
-    messagingSenderId: '579295691644',
-    projectId: 'woolify-4182c',
-    storageBucket: 'woolify-4182c.appspot.com',
-    iosBundleId: 'com.example.woolify.RunnerTests',
-  );
+ 
+  
 }
